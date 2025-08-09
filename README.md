@@ -1,7 +1,7 @@
 # wisepoint-auto
-多要素認証のWisePointを自動化。信州大学のACSU用
+多要素認証のWisePointを自動化。信州大学のACSU用　TamperMonkeyのユーザースクリプト
 
-# WisePointイメージ認証 自動化仕様まとめ
+# WisePointイメージ認証 自動化仕様
 
 ---
 
