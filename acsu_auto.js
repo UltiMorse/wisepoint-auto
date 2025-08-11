@@ -1,11 +1,10 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
-// @version      2025-08-08
-// @description  try to take over the world!
-// @author       You
-// @match        *://*/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=shinshu-u.ac.jp
+// @name         wisepoint-auto
+// @namespace    https://github.com/UltiMorse/wisepoint-auto
+// @version      2025-08-11
+// @description  ACSUのマトリクス認証自動入力ボタン追加
+// @author       UltiMorse
+// @match        https://gakunin.ealps.shinshu-u.ac.jp/idp/Authn/External?conversation=*
 // @grant        none
 // ==/UserScript==
 
